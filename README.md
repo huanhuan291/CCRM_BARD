@@ -1,6 +1,6 @@
 # CCRE-BARD
 
-The official code for "CCRE-BARD Cross-Domain Complementary Recalibration with Boundary-Aware and Anatomy-Regularized Dual-stage Framework for 3D Medical Image Segmentation" ![GitHub Repo stars]( [    ](https://github.com/huanhuan291/CCRM_BARD/))  
+The official code for "CCRE-BARD Cross-Domain Complementary Recalibration with Boundary-Aware and Anatomy-Regularized Dual-stage Framework for 3D Medical Image Segmentation" ![GitHub Repo stars]( (https://github.com/huanhuan291/CCRM_BARD/))  
 
  
 CCRE-BARD proposes a Cross-domain Complementary Recalibration Encoder (CCRE) and a Bidirectional decoupled trAining and infeRence framework (BARD). CCRE enhances global semantic and local boundary modeling through heterogeneous feature interaction. BARD leverages boundary-aware supervision during training to improve discriminative capability, and employs lightweight structural refinement via anatomical consistency enhancement during inference. This method improves segmentation accuracy and boundary quality while maintaining good anatomical plausibility and computational efficiency.
